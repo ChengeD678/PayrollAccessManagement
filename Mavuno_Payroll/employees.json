@@ -1,0 +1,66 @@
+[
+    {
+        "id": "EMP001",
+        "name": "Amina Wanjiku",
+        "department": "Finance",
+        "basic_salary": 85000,
+        "allowances": 10000
+    },
+    {
+        "id": "EMP002",
+        "name": "Brian Otieno",
+        "department": "IT",
+        "basic_salary": 120000,
+        "allowances": 15000
+    },
+    {
+        "id": "EMP003",
+        "name": "Carol Njeri",
+        "department": "HR",
+        "basic_salary": 55000,
+        "allowances": 5000
+    },
+    {
+        "id": "EMP004",
+        "name": "Davis Chenge",
+        "department": "Credit",
+        "basic_salary": 180000,
+        "allowances": 16000,
+        "permissions": 7
+    },
+    {
+        "id": "EMP005",
+        "name": "Andrew Shisia",
+        "department": "Intern",
+        "basic_salary": 18000,
+        "allowances": 0
+    },
+    {
+        "id": "EMP006",
+        "name": "Peter Wanjala",
+        "department": "IT",
+        "basic_salary": 21000.0,
+        "allowances": 0.0
+    },
+    {
+        "id": "EMP007",
+        "name": "Jane Kihara",
+        "department": "Operations",
+        "basic_salary": 79000.0,
+        "allowances": 0.0
+    },
+    {
+        "id": "EMP008",
+        "name": "Milly Passaris",
+        "department": "Media",
+        "basic_salary": 269000.0,
+        "allowances": 17000.0
+    },
+    {
+        "id": "EMP009",
+        "name": "Roma Mkatoliki",
+        "department": "Legal",
+        "basic_salary": 81000.0,
+        "allowances": 9000.0
+    }
+]
